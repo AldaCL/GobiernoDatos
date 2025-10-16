@@ -1,6 +1,4 @@
-![AutoNova Motors Logo](https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=120&fit=crop&crop=center)
-
-# Política Integrada de Datos — AutoNova Motors
+# 🚗 Política Integrada de Datos — AutoNova Motors
 
 **Calidad • Clasificación • Acceso**  
 **Versión 1.0** · **Fecha:** 16 de octubre de 2025 · **Propietario:** CDO (Chief Data Officer)
